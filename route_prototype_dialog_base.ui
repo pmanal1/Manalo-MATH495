@@ -88,7 +88,7 @@
     </rect>
    </property>
    <property name="text">
-    <string>Distance Interval (in meters probably?)</string>
+    <string>Distance Interval</string>
    </property>
   </widget>
   <widget class="QSpinBox" name="distanceInterval">
